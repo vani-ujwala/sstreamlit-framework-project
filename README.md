@@ -11,7 +11,7 @@
 ## 🔧 Installation
 1. **Clone the repository:**
    
-   git clone https://github.com/yourusername/streamlit-chatbot.git
+   git clone:(https://github.com/vani-ujwala/sstreamlit-framework-project.git)
    cd streamlit-chatbot
   
 2. **Create a virtual environment (optional but recommended):**
